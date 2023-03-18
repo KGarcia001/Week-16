@@ -38,7 +38,6 @@ export default function Root() {
         <div id="sidebar">
           <h1>React Router Playlist </h1>
           <div>
-            <NavLink to="home.html">Home</NavLink>
           <Form id="search-form" role="search">
               <input
                 id="q"
